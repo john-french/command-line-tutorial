@@ -1,12 +1,12 @@
-Command-line fu script
+Command-line Tutorial
 ======================
 
-A brief introduction to OSX command-line wizardry with extensive examples. For purposes of this introduction **command line**, **shell**, **terminal** and **bash** are all the same thing. There are specific, technical meanings for each of these words, but right now you shouldn't care about that right now.
+A brief introduction to bash command-line wizardry with extensive examples. For purposes of this introduction **command line**, **shell**, **terminal** and **bash** are all the same thing. There are specific, technical meanings for each of these words, but right now you shouldn't care about that right now.
 
 Starting the terminal
 ---------------------
 
-Click the **Applications** folder in your dock, then **Utilities**, then **Terminal**. You'll be faced with something that looks a little like this:
+Find the Terminal application in your operating system (e.g. Terminator).
 
 ```
 $
